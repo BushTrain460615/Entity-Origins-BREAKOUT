@@ -2,7 +2,6 @@ package;
 
 import flixel.util.FlxSave;
 import lime.app.Application;
-import Discord.DiscordClient;
 import openfl.display.BitmapData;
 import openfl.utils.Assets;
 import flixel.ui.FlxBar;
